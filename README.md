@@ -1,0 +1,1 @@
+A project to test git integration into azure notebooks for machine learning
